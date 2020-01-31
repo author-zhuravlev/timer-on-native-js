@@ -15,6 +15,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .timer-wrapper {
@@ -42,11 +43,6 @@ body {
 }
 
 .timer span {
-    margin: 0 7px 0 7px;
     display: inline-block;
     text-align: center;
-}
-
-span.seconds {
-    width: 6.6vmax;
 }
