@@ -1,3 +1,3 @@
-# Timer on native JS
+# Timer(native JS)
 
 ![Photo](img/screen.png)
